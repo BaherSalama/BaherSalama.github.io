@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Baher Salama</title>
+    <link rel="self" type="application/atom+xml" href="https://baherSalama.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://baherSalama.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-07-31T00:00:00+00:00</updated>
+    <id>https://baherSalama.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Genetics test</title>
+        <published>2025-07-31T00:00:00+00:00</published>
+        <updated>2025-07-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Baher
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://baherSalama.github.io/projects/genatics-ai/"/>
+        <id>https://baherSalama.github.io/projects/genatics-ai/</id>
+        
+        <content type="html" xml:base="https://baherSalama.github.io/projects/genatics-ai/">&lt;head&gt;
+    &lt;link data-trunk rel=&quot;rust&quot; data-wasm-opt=&quot;2&quot; &#x2F;&gt;
+    &lt;!-- this is the base url relative to which other urls will be constructed. trunk will insert this from the public-url option --&gt;
+    &lt;base data-trunk-public-url &#x2F;&gt;
+&lt;&#x2F;head&gt;
+&lt;script type=&quot;module&quot;&gt;
+  import init from &#x27;.&#x2F;mygame.js&#x27;
+  init().catch((error) =&gt; {
+    if (!error.message.startsWith(&quot;Using exceptions for control flow, don&#x27;t mind me. This isn&#x27;t actually an error!&quot;)) {
+      throw error;
+    }
+  }).finally(
+    console.log(&quot;done&quot;)
+  );
+&lt;&#x2F;script&gt;
+&lt;canvas id=&quot;mygame-canvas&quot;&gt;
+&lt;&#x2F;canvas&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Schedular</title>
+        <published>2025-07-31T00:00:00+00:00</published>
+        <updated>2025-07-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Baher
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://baherSalama.github.io/projects/schedular/"/>
+        <id>https://baherSalama.github.io/projects/schedular/</id>
+        
+        <content type="html" xml:base="https://baherSalama.github.io/projects/schedular/">&lt;script type=&quot;module&quot;&gt;
+  import init from &#x27;.&#x2F;simulation.js&#x27;
+  init().catch((error) =&gt; {
+    if (!error.message.startsWith(&quot;Using exceptions for control flow, don&#x27;t mind me. This isn&#x27;t actually an error!&quot;)) {
+      throw error;
+    }
+  }).finally(
+    console.log(&quot;done&quot;)
+  );
+&lt;&#x2F;script&gt;
+&lt;p&gt;&lt;canvas id=&quot;mygame-canvas&quot;&gt;&lt;&#x2F;canvas&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>My keyboard</title>
+        <published>2024-07-31T00:00:00+00:00</published>
+        <updated>2024-07-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Baher
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://baherSalama.github.io/blog/keyboard/"/>
+        <id>https://baherSalama.github.io/blog/keyboard/</id>
+        
+        <content type="html" xml:base="https://baherSalama.github.io/blog/keyboard/">&lt;h1 id=&quot;a-better-keyboard&quot;&gt;A better keyboard&lt;&#x2F;h1&gt;
+&lt;p&gt;I always felt like keyboards are a little too big so i decided to go smaller
+how small 16 keys small&lt;&#x2F;p&gt;
+&lt;div class=&quot;crt scanlines&quot; aria-hidden=&quot;true&quot;&gt;
+	&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;a i e           e i a
+&lt;&#x2F;span&gt;&lt;span&gt;o t n           n t o
+&lt;&#x2F;span&gt;&lt;span&gt;    BS SP   SP BS
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;if-you-press-sp-you-get-capitals&quot;&gt;If you press SP you get capitals&lt;&#x2F;h2&gt;
+&lt;div class=&quot;crt scanlines&quot; aria-hidden=&quot;true&quot;&gt;
+	&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;A I E
+&lt;&#x2F;span&gt;&lt;span&gt;O T N 
+&lt;&#x2F;span&gt;&lt;span&gt;    BS  XX
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;if-you-press-bs-you-get-some-function-keys&quot;&gt;If you press BS you get some function keys&lt;&#x2F;h2&gt;
+&lt;div class=&quot;crt scanlines&quot; aria-hidden=&quot;true&quot;&gt;
+	&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;⭿ ⇑ ⏎
+&lt;&#x2F;span&gt;&lt;span&gt;⇐ ⇓ ⇒ 
+&lt;&#x2F;span&gt;&lt;span&gt;      XX  SP
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;how-fast-am-i-after-5-month&quot;&gt;How fast am i after 5 month?&lt;&#x2F;h2&gt;
+&lt;p&gt;well are u ready&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;img class=&quot;spoiler&quot;alt=&quot;Portal Gun blueprint&quot;src=&quot;.&amp;#x2F;speed.png&quot;&#x2F;&gt;
+&lt;figcaption&gt;speed from monky type&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Econome</title>
+        <published>2024-05-11T00:00:00+00:00</published>
+        <updated>2024-05-11T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Baher
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://baherSalama.github.io/projects/econome/"/>
+        <id>https://baherSalama.github.io/projects/econome/</id>
+        
+        <content type="html" xml:base="https://baherSalama.github.io/projects/econome/">&lt;h1 id=&quot;the-best-of-money-managers&quot;&gt;The best of money managers&lt;&#x2F;h1&gt;
+&lt;video class=&quot;&quot; src=&quot;econome.mp4&quot;aria-title=&quot;This is a video&quot;controls&gt;&lt;&#x2F;video&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Embeded Clock</title>
+        <published>2023-05-12T00:00:00+00:00</published>
+        <updated>2023-05-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Baher
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://baherSalama.github.io/projects/embedded-clock/"/>
+        <id>https://baherSalama.github.io/projects/embedded-clock/</id>
+        
+        <content type="html" xml:base="https://baherSalama.github.io/projects/embedded-clock/">&lt;h1 id=&quot;an-alarm-clock-made-with-c-and-atmega328p&quot;&gt;An alarm clock made with C and ATMEGA328P&lt;&#x2F;h1&gt;
+&lt;video class=&quot;&quot; src=&quot;clock.mp4&quot;aria-title=&quot;This is a video&quot;controls&gt;&lt;&#x2F;video&gt;
+</content>
+        
+    </entry>
+</feed>

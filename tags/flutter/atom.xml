@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Baher Salama - Flutter</title>
+    <link rel="self" type="application/atom+xml" href="https://baherSalama.github.io/tags/flutter/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://baherSalama.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-05-11T00:00:00+00:00</updated>
+    <id>https://baherSalama.github.io/tags/flutter/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Econome</title>
+        <published>2024-05-11T00:00:00+00:00</published>
+        <updated>2024-05-11T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Baher
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://baherSalama.github.io/projects/econome/"/>
+        <id>https://baherSalama.github.io/projects/econome/</id>
+        
+        <content type="html" xml:base="https://baherSalama.github.io/projects/econome/">&lt;h1 id=&quot;the-best-of-money-managers&quot;&gt;The best of money managers&lt;&#x2F;h1&gt;
+&lt;video class=&quot;&quot; src=&quot;econome.mp4&quot;aria-title=&quot;This is a video&quot;controls&gt;&lt;&#x2F;video&gt;
+</content>
+        
+    </entry>
+</feed>
