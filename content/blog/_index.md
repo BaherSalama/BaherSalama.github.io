@@ -4,4 +4,4 @@ sort_by = "date"
 template = "article_list.html"
 page_template = "article.html"
 +++
-# sad life
+# A place for my thoughts

@@ -25,4 +25,4 @@ ______       _
 
 {% end %}
 
-A software engineer with love in all things programming
+A software engineer with love for all things programming

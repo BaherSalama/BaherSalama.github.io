@@ -10,7 +10,7 @@ banner="./keyboard.jpeg"
 # A better keyboard
 
 
-i always felt like keyboards are a little too big so i decided to go smaller
+I always felt like keyboards are a little too big so i decided to go smaller
 how small 16 keys small
 
 {% crt() %}
@@ -22,7 +22,7 @@ o t n           n t o
 ```
 
 {% end %}
-## if u press SP u get capitals
+## If you press SP you get capitals
 {% crt() %}
 
 ```                                                    
@@ -33,7 +33,7 @@ O T N
 
 {% end %}
 
-## if u press BS u get some function keys
+## If you press BS you get some function keys
 {% crt() %}
 
 ```                                                    
@@ -44,7 +44,7 @@ O T N
 
 {% end %}
 
-## how fast i am after 5 month?
+## How fast am i after 5 month?
 well are u ready
 
 <figure>

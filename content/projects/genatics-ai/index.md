@@ -7,7 +7,12 @@ Genetics algorithim
 [taxonomies]
 tags = ["AI", "Genatics","interactive","Rust"]
 +++
+<head>
+    <link data-trunk rel="rust" data-wasm-opt="2" />
+    <!-- this is the base url relative to which other urls will be constructed. trunk will insert this from the public-url option -->
+    <base data-trunk-public-url />
 
+</head>
 <script type="module">
   import init from './mygame.js'
   init().catch((error) => {
