@@ -1,0 +1,19 @@
+---
+.title = "Schedular",
+.date = @date("2020-08-14T00:00:00"),
+.author = "",
+.layout = "post.shtml",
+.tags = ["Rust","Interactable"],
+.draft = false,
+.custom = {
+  .wasm=true
+}
+---
+
+```=html
+<div class="vertical">
+  <div class="load"><div class="loader"></div></div>
+  <canvas id="mygame-canvas" class="vertical">
+  </canvas>
+</div>
+```

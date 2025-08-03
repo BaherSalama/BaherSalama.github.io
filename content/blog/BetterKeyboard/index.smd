@@ -1,0 +1,18 @@
+---
+.title = "A better keyboard",
+.date = @date("2023-06-01T00:00:00"),
+.author = "",
+.layout = "post.shtml",
+.draft = false,
+---
+
+[The final product](<$image.asset("keyboard.png").attrs("class","test").alt("16key keyboard")>)
+## The 16-Key Titan: Building a Layered RP2040 Keyboard with Combos
+### How I built a pocket-sized, layer-driven keyboard for coding, gaming, and everything in between.
+I designed a chording keyboard where combinations and layers turn 16 keys
+- Base Layer: Letters, numbers, functions, navigation, all via combos.
+- Gaming Layer: WASD.
+
+it's been my daily driver for a year, And it can't get any better except in gaming might need some tweeks other than that it's golden no rsi for me :)
+### how about the speed?
+[Speed from monkeytype](<$image.asset("speed.png").attrs("class","test").alt("16key keyboard")>)

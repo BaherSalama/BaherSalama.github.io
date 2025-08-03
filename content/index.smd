@@ -1,0 +1,61 @@
+---
+.title = "Welcome!",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Baher Salama",
+.layout = "index.shtml",
+.draft = false,
+---
+
+## I am Baher Salama
+[]($section)
+>[]($block.attrs('class','onscroll'))
+>Software Engineer optimizing cloud infrastructure and CI/CD pipelines with AWS, Kubernetes, and Rust. I transform complex systems into scalable solutions with measurable impact.
+
+[]($section.attrs('overflow-hide'))
+>[]($block.id('scroller').attrs('scroller'))
+>[]($image.siteAsset('econome/White.svg').attrs('bigboi'))
+>[]($image.siteAsset('econome/Income.svg').attrs('bigboi'))
+>[]($image.siteAsset('econome/Upload.svg').attrs('bigboi'))
+>[]($image.siteAsset('econome/White-2.svg').attrs('bigboi'))
+>[]($image.siteAsset('schdular/1.png').attrs('bigboi'))
+>[]($video.siteAsset('genatics/ai.mp4').attrs('bigboi').autoplay(true).loop(true).muted(true))
+
+## Certifications 
+
+[]($section)
+>[]($block.attrs('class','onscroll'))
+>Technologies and tools i got certifications in
+
+[]($section.attrs('overflow-hide'))
+>[]($block.attrs('scroller'))
+>[]($image.siteAsset('certs/backend_api.png').attrs('bigboi'))
+>[]($image.siteAsset('certs/aws.jpg').attrs('bigboi'))
+>[]($image.siteAsset('certs/js_cert.jpg').attrs('bigboi'))
+
+
+[]($section)
+## Skills 
+
+[]($section)
+>[]($block.attrs('class','onscroll'))
+>Languages and technologies i am proficient in
+
+[]($section.attrs('overflow-hide'))
+>[]($block.attrs('scroller'))
+>[]($image.siteAsset('tech/rust.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/nixos.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/c.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/cplusplus.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/kubernetes.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/python.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/dotnet.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/linux.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/googlecloud.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/freebsd.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/openbsd.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/go.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/flutter.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/react.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/godotengine.svg').attrs('bigboi','inv'))
+>[]($image.siteAsset('tech/bevy.svg').attrs('bigboi','inv'))
+

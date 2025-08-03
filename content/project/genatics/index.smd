@@ -1,0 +1,19 @@
+---
+.title = "Genatics Algorithm",
+.date = @date("2025-08-14T00:00:00"),
+.author = "",
+.layout = "post.shtml",
+.tags = ["Rust","Interactable"],
+.draft = false,
+.custom = {
+  .wasm=true
+}
+---
+
+```=html
+<div class="canv_vertical">
+<div class="load"><div class="loader"></div></div>
+<canvas id="mygame-canvas" class="canv_vertical">
+</canvas>
+</div>
+```

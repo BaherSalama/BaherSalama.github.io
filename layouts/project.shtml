@@ -1,0 +1,38 @@
+<extend template="base.shtml">
+<head id="head">
+  <style>
+    .tags {
+      font-size: 0.9em;
+      margin-left: 0.5em;
+    }
+    .projects {
+      margin-left: 0.5em;
+    }
+    .tag{
+      background-color:var(--indicator-accent);
+      border-radius:.3em;
+      padding-left:.2em;
+      padding-right:.2em;
+      padding-bottom:.1em;
+      padding-top:.1em
+    }
+    .title h3{
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body id="body">
+  <h1 :text="$page.title"></h1>
+  <div :html="$page.content()"></div>
+  <div>
+    <h2>Projects list</h2>
+    <div :loop="$page.subpages()" class="projects">
+      <a class="title" href="$loop.it.link()">
+        <h3 :text="$loop.it.title"></h3>
+      </a>
+      <div class="tags" :loop="$loop.it.tags">
+        <span class="tag" :text="$loop.it"></span>
+      </div>
+    </div>
+  </div>
+</body>

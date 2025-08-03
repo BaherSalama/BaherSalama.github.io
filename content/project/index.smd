@@ -1,0 +1,15 @@
+---
+.title = "Projects",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Baher",
+.layout = "project.shtml",
+.alternatives = [{
+    .name = "rss",
+    .layout = "project.xml",
+    .output = "index.xml",
+}],
+.draft = false,
+---
+
+This is a place for my projects take a look ;)
+

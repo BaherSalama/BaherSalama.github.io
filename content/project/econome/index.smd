@@ -1,0 +1,17 @@
+---
+.title = "Best Fintech App",
+.date = @date("2030-06-01T00:00:00"),
+.author = "",
+.layout = "post.shtml",
+.tags = ["Flutter","Python","FastAPI"],
+.draft = false,
+--- 
+
+[Econome](<$video.asset('econome.mp4').attrs("class","vertical").controls(true).muted(true).autoplay(true)>)
+## Ever wanted an app to track your budget and tell you how to mange your money
+econome is here to save the day.
+- Add banks or wallet.
+- Track what categories do you spend on most.
+- Add the goal you want to achive.
+- Let Ai tell you what is best to invest in.
+- See the charts to help you visualize.

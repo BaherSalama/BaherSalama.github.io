@@ -1,0 +1,40 @@
+<extend template="base.shtml">
+<head id="head">
+<!-- <script> -->
+  <!-- document.onreadystatechange = function () { -->
+    <!-- if (document.readyState !== "complete") { -->
+      <!-- document.querySelector("body").style.visibility = "hidden"; -->
+      <!-- document.querySelector("nav").style.visibility = "visible"; -->
+      <!-- document.querySelector("body").style.overflowY = "hidden"; -->
+      <!-- document.querySelector(".fill").style.visibility = "visible"; -->
+    <!-- } else { -->
+      <!-- document.querySelector(".fill").style.display = "none"; -->
+      <!-- document.querySelector("body").style.visibility = "visible"; -->
+      <!-- document.querySelector("body").style.overflowY = "auto"; -->
+    <!-- } -->
+  <!-- }; -->
+<!-- </script> -->
+</head>
+<body id="body">
+  <!-- <div class="fill"> -->
+    <!-- <span class="mainloader"></span> -->
+  <!-- </div> -->
+  <h1 :text="$page.title"></h1>
+  <div :html="$page.content()"></div>
+  <!-- <div class="overflow-hide"> -->
+    <!-- <div class="scroller" :html="$page.contentSection('scroller')"> -->
+      <!-- <img src="$site.asset('econome/Dark.svg').link()" class="bigboi"> -->
+      <!-- <img src="$site.asset('econome/White.svg').link()" class="bigboi"> -->
+      <!-- <img src="$site.asset('econome/Income.svg').link()" class="bigboi"> -->
+      <!-- <img src="$site.asset('econome/Upload.svg').link()" class="bigboi"> -->
+      <!-- <img src="$site.asset('econome/White-1.svg').link()" class="bigboi"> -->
+      <!-- <img src="$site.asset('econome/White-2.svg').link()" class="bigboi"> -->
+      <!-- <img src="$site.asset('econome/White-3.svg').link()" class="bigboi"> -->
+      <!-- <img src="$site.asset('econome/White-4.svg').link()" class="bigboi"> -->
+      <!-- <img src="$site.asset('econome/Edit wallet.svg').link()" class="bigboi"> -->
+      <!-- <img src="$site.asset('econome/Transaction.svg').link()" class="bigboi"> -->
+      <!-- <img src="$site.asset('econome/Verification.svg').link()" class="bigboi"> -->
+      <!-- <img src="$site.asset('schdular/1.png').link()" class="bigboi"> -->
+    <!-- </div> -->
+  <!-- </div> -->
+</body>

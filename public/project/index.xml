@@ -1,0 +1,42 @@
+<rss version="2.0">
+  <channel>
+    <title>Baher Salama</title>
+    <link>https://example.com</link>
+    <description>Baher Salama - Blog</description>
+    <generator>Zine -- https://zine-ssg.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Jun 2025 19:50:16 +0000</lastBuildDate>
+    
+      <item>
+        <title>Best Fintech App</title>
+        <description>&lt;p&gt;&lt;figure&gt;&lt;video class=&quot;class vertical &quot; autoplay controls&gt;
+&lt;source src=&quot;https://example.com/project/econome/econome.mp4&quot;&gt;
+&lt;/video&gt;
+&lt;figcaption&gt;Econome&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;&lt;h2&gt;Ever wanted an app to track your budget and tell you how to mange your money&lt;/h2&gt;&lt;p&gt;econome is here to save the day.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Add banks or wallet.&lt;/li&gt;&lt;li&gt;Track what categories do you spend on most.&lt;/li&gt;&lt;li&gt;Add the goal you want to achive.&lt;/li&gt;&lt;li&gt;Let Ai tell you what is best to invest in.&lt;/li&gt;&lt;li&gt;See the charts to help you visualize.&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://example.com/project/econome/</link>
+        <pubDate>Sat, 01 Jun 2030 00:00:00 +0000</pubDate>
+        <guid>https://example.com/project/econome/</guid>
+      </item>
+    
+      <item>
+        <title>Genatics Algorithm</title>
+        <description>&lt;canvas id=&quot;mygame-canvas&quot; class=&quot;vertical&quot;&gt;
+&lt;/canvas&gt;
+</description>
+        <link>https://example.com/project/genatics/</link>
+        <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+        <guid>https://example.com/project/genatics/</guid>
+      </item>
+    
+      <item>
+        <title>Schedular</title>
+        <description>&lt;canvas id=&quot;mygame-canvas&quot; class=&quot;vertical&quot;&gt;
+&lt;/canvas&gt;
+</description>
+        <link>https://example.com/project/schedular/</link>
+        <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+        <guid>https://example.com/project/schedular/</guid>
+      </item>
+    
+  </channel>
+</rss>

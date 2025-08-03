@@ -1,0 +1,18 @@
+---
+.title = "Year 2025",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Sample Author",
+.layout = "devlog.shtml",
+.draft = false,
+---
+
+[]($section.id('about'))
+
+## [Flow control]($section.id("2025-04-04T00:00:00"))
+A new editor that has helix motions and also has emacs motion so cool
+
+## [Helix]($section.id("2025-03-04T00:00:00"))
+My favorite editor so far with the amazing motion and the see before you act is very amazing and made in rust
+
+## [Hello Zine]($section.id("2025-01-05T00:00:00"))
+Rewrite my website in zine the zig based static site generator it's amazing so far.
